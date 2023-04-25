@@ -1,0 +1,7 @@
+body{
+    font-family: 'Tilt Warp', cursive;
+    text-align: center;
+}
+#board {
+    background-image: url("./images/flappybirdbg.png");
+}
